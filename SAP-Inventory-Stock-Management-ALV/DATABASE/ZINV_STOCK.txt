@@ -1,0 +1,13 @@
+ZINV_STOCK
+
+Purpose:
+Stores inventory and stock information.
+
+Fields:
+
+MAT_ID          CHAR 10       Key
+PLANT           CHAR 4        Key
+STORAGE_LOC     CHAR 4        Key
+STOCK_QTY       DEC 13,3
+MIN_STOCK       DEC 13,3
+STOCK_DATE      DATS

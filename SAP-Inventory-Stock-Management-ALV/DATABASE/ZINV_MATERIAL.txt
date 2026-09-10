@@ -1,0 +1,12 @@
+ZINV_MATERIAL
+
+Purpose:
+Stores material master information.
+
+Fields:
+
+MAT_ID       CHAR 10       Key
+MAT_NAME     CHAR 40
+MAT_TYPE     CHAR 20
+UNIT         CHAR 5
+PRICE        DEC 13,2
